@@ -1,2 +1,2 @@
-# table_top_games
+# Table Top Games
 Analyzing Popular Table-Top Games
