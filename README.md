@@ -1,2 +1,2 @@
-# Table Top Games
+# Table Top Games Project
 Analyzing Popular Table-Top Games
